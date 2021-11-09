@@ -1,0 +1,2 @@
+# SuperSlicer
+My SS config
